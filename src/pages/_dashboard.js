@@ -80,7 +80,7 @@ function App() {
                  <div className="row justify-content-center text-center pt-2">
                      <div className="col-lg-8 col-xl-8">
                         <h1>Here I'm 
-                          <b><span className="txt-rotate" data-period="1000" data-rotate='[ " Sourabh Bisht.", " sTrooper."]'></span></b>
+                          <b><span className="txt-rotate" data-period="1000" data-rotate='[ " Sourabh Bisht.", " i_trooper."]'></span></b>
                         </h1>
                          <p className="lead px-md-6 mb-2">_software<strong>Developer</strong></p>
                          <strong>Abraham Lincoln </strong> <span>reportedly said that, given eight hours to chop down a tree, he’d spend six sharpenning his axe.</span>
