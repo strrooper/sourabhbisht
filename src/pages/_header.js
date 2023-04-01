@@ -25,6 +25,9 @@ window.onscroll = function() {
 function App() {
   return (
     <>
+<meta http-equiv='cache-control' content='no-cache'> </meta>
+<meta http-equiv='expires' content='0'> </meta>
+<meta http-equiv='pragma' content='no-cache'></meta>
         <header className="header-global"  >
           <nav id="navbar-main" aria-label="Primary navigation"  className="right-flex pt-3 pb-2 navbar navbar-main navbar-expand-lg navbar-theme-primary headroom navbar-light navbar-transparent headroom--not-bottom headroom--pinned headroom--top">
                   <div className="navbar-collapse collapse" id="navbar_global">
