@@ -1,9 +1,9 @@
 // import { Link } from 'react-router-dom';
-import insta from '../images/_insta.png';
-import lin from '../images/_in.png';
-import fb from '../images/_fb.png';
-import warn from '../images/_warning.png';
-import gmail from '../images/_gmail.png';
+import insta from '../images/insta.png';
+import lin from '../images/in.png';
+import fb from '../images/fb.png';
+import warn from '../images/warning.png';
+import gmail from '../images/gmail.png';
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
 
                         <ul className="d-flex list-unstyled mb-5 justify-content-center">
                             <li className="mr-2">
-                                <a href="https://www.instagram.com/str00per" target='_blank' rel='noopener noreferrer' className="btn btn-icon-only btn-primary">
+                                <a href="https://www.instagram.com/i_trooper" target='_blank' rel='noopener noreferrer' className="btn btn-icon-only btn-primary">
                                     <img src={insta}/>
                                 </a>
                             </li>
@@ -25,9 +25,12 @@ function App() {
                                 </a>
                             </li>
                             <li className="mr-2">
-                                <a href="https://www.facebook.com/sourabh.bisht.73" target='_blank' rel='noopener noreferrer' className="btn btn-icon-only btn-primary">
-                                    <img src={fb}/>
-                                </a>
+                                {/* <a href="https://www.facebook.com/sourabh.bisht.73" target='_blank' rel='noopener noreferrer' className="btn btn-icon-only btn-primary">
+                                    <img src={fb} className="fb_image"/>
+                                </a> */}
+                                {/* <div className="btn btn-icon-only btn-primary " >
+                                    <img src={gmail} id="QR" className="zoomqr"/>
+                                </div> */}
                             </li>
                             <li className="mr-2">
                                 <div className="btn btn-icon-only btn-primary " >
