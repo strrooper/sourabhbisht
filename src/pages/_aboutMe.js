@@ -12,6 +12,10 @@ function App() {
     <>
     <Header/>
       <main>
+         <div class="mobile_popup">
+            For Better Experience Open in Webview
+         </div>
+
          <section class="section section-lg section section-header pb-3">
             <div class="container">
                <div class="row align-items-center justify-content-around">

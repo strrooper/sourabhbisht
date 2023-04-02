@@ -75,6 +75,10 @@ function App() {
   return (
     <>
       <Header/>
+
+          <div class="mobile_popup">
+            For Better Experience Open in Webview
+          </div>
          <section className="section section bg-soft pb-5 overflow-hidden z-2" >
              <div className="container z-2">
                  <div className="row justify-content-center text-center pt-2">

@@ -32606,12 +32606,21 @@ canvas {
         animation: 3s fadeout;
         animation-fill-mode: forwards;    
         position: relative;
-        margin: 70px auto;
+        margin-top: 50px;
+        margin-left: 20px;
+        margin-right: 20px;
+
         padding: 20px;
         background: #fff;
         border-radius: 5px;
         width: 90%;
         position: relative;
+    }
+
+    .video-fluid{
+        margin: 0 auto;
+        display: block;
+        width:-webkit-fill-available
     }
 
   }
