@@ -37,7 +37,7 @@ function App() {
 
                         </ul>
                         <div className="d-flex text-center justify-content-center align-items-center" role="contentinfo">
-                            <p className="font-weight-normal font-small mb-0"><img src={warn} className="btn-icon-only" />I am not going to build any website for anyone.</p>
+                            <p className="font-weight-normal font-small mb-0"><img src={warn} className="btn-icon-only" />No code has zero defects.</p>
                         </div>
                     </div>
                 </div>
