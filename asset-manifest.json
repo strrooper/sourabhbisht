@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sourabhbisht/static/css/main.fc2a5c09.chunk.css",
-    "main.js": "/sourabhbisht/static/js/main.b236ac8c.chunk.js",
-    "main.js.map": "/sourabhbisht/static/js/main.b236ac8c.chunk.js.map",
+    "main.js": "/sourabhbisht/static/js/main.39d99913.chunk.js",
+    "main.js.map": "/sourabhbisht/static/js/main.39d99913.chunk.js.map",
     "runtime-main.js": "/sourabhbisht/static/js/runtime-main.ec305aed.js",
     "runtime-main.js.map": "/sourabhbisht/static/js/runtime-main.ec305aed.js.map",
     "static/js/2.97e7d33d.chunk.js": "/sourabhbisht/static/js/2.97e7d33d.chunk.js",
@@ -53,7 +53,7 @@
     "static/media/gall9.8141ea10.jpg": "/sourabhbisht/static/media/gall9.8141ea10.jpg",
     "static/media/in.dda92d1f.png": "/sourabhbisht/static/media/in.dda92d1f.png",
     "static/media/insta.0935f2b6.png": "/sourabhbisht/static/media/insta.0935f2b6.png",
-    "static/media/iot_project.8bdda023.mp4": "/sourabhbisht/static/media/iot_project.8bdda023.mp4",
+    "static/media/iot_project.d5251d8d.mp4": "/sourabhbisht/static/media/iot_project.d5251d8d.mp4",
     "static/media/profile_pic.6ebabbc5.jpg": "/sourabhbisht/static/media/profile_pic.6ebabbc5.jpg",
     "static/media/ps1.eaa3ae69.jpg": "/sourabhbisht/static/media/ps1.eaa3ae69.jpg",
     "static/media/ps2.e2012699.jpg": "/sourabhbisht/static/media/ps2.e2012699.jpg",
@@ -73,6 +73,6 @@
     "static/js/runtime-main.ec305aed.js",
     "static/js/2.97e7d33d.chunk.js",
     "static/css/main.fc2a5c09.chunk.css",
-    "static/js/main.b236ac8c.chunk.js"
+    "static/js/main.39d99913.chunk.js"
   ]
 }
